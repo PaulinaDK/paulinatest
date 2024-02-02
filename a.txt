@@ -1,1 +1,23 @@
-hhthfgnncfghghniihpsir
+<!DOCTYPE html>
+
+<html lang="da">
+  <head>
+    <title></title>
+    <meta charset="UTF-8" />
+    <meta name="description" content="description" />
+
+    <script src="ścieżka/do/pliku.js"></script>
+    <style></style>
+  </head>
+
+  <body>
+    <section>
+      <h1>Header 1</h1>
+      <p>fggfckjhjkhkjvfvd</p>
+      n
+      <p>iiroweir</p>
+      <p>lfien</p>
+      <p>lhlhflr</p>
+    </section>
+  </body>
+</html>
